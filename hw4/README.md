@@ -1,16 +1,6 @@
 # hw4
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Задача
+Реализовать изменение цветов на случайные при включении/отключении переключателя, использовать AnimatedContainer и Provider
+### Результат
+[HW4.webm](https://user-images.githubusercontent.com/101862863/228258953-ea85522f-56b7-462d-ad59-849cb2d9b85d.webm)
