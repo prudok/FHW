@@ -19,7 +19,7 @@ class Hw4 extends StatelessWidget {
             value: ColorsProvider(),
           ),
         ],
-        child: HomeScreen(),
+        child: const HomeScreen(),
       ),
     );
   }
