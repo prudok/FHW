@@ -1,16 +1,6 @@
 # hw5
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Задание
+Реализовать локальную базу данных с использованием пакетов sqflite, shared_provider с возможностью добавления новых пользователей и их удаление в таблице.
+### Результат
+[hw5.webm](https://user-images.githubusercontent.com/101862863/228509096-e4fb12ce-c9d7-438e-a710-7438cc55e50d.webm)
