@@ -56,7 +56,8 @@ class _HomePageState extends State<HomePage> {
       body: Column(
         children: [
           Padding(
-            padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 15.0),
+            padding:
+                const EdgeInsets.symmetric(vertical: 8.0, horizontal: 15.0),
             child: Form(
               key: _formStateKey,
               child: TextFormField(
@@ -98,7 +99,6 @@ class _HomePageState extends State<HomePage> {
                         });
                       });
                     }
-                    //TODO: There was updateList here.
                   } else {
                     if (_formStateKey.currentState!.validate()) {
                       _formStateKey.currentState!.save();
