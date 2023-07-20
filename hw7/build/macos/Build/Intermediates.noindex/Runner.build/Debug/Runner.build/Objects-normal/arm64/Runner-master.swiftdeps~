@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "8ab3cbaa820fbccb73f00eb58e826fd0062e4b36cf43d991ec39d15d998849b5"
+build_start_time: [1689762774, 786646000]
+build_end_time: [1689762774, 818887000]
+inputs:
+  "/Users/home/Desktop/projects/Dart & Flutter/birthday_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1689762769, 588249648]
+  "/Users/home/Desktop/projects/Dart & Flutter/birthday_app/macos/Runner/AppDelegate.swift": !private [1677703615, 0]
+  "/Users/home/Desktop/projects/Dart & Flutter/birthday_app/macos/Runner/MainFlutterWindow.swift": !private [1688363149, 577711296]
