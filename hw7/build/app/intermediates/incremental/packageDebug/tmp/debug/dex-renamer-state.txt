@@ -1,4 +1,0 @@
-#Thu Jul 20 17:01:59 MSK 2023
-base.0=/Users/home/Desktop/projects/Dart & Flutter/birthday_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

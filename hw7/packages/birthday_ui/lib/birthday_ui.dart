@@ -1,9 +1,0 @@
-// styles
-export 'src/shared/colors.dart';
-export 'src/shared/space.dart';
-export 'src/shared/styles.dart';
-// widgets
-export 'src/widgets/birthday_appbar.dart';
-export 'src/widgets/birthday_button.dart';
-export 'src/widgets/birthday_input_field.dart';
-export 'src/widgets/birthday_text.dart';
